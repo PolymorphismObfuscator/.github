@@ -1,9 +1,9 @@
-# ✨ Polymorphism Java Obfuscator
-**Where Code Meets Security & Elegance**
+# ✨ Polymorphism
+**Where Code Meets Security & Performance**
 
 ---
 ## 🛡️ **About Us**
-We provide obfuscation, protection, and digital product payment handling. Our purpose is to help developers to secure and monetize their code with ease and confidence.
+We provide **obfuscation**, **protection**, and digital product **payment handling**. Our purpose is to help developers to secure and monetize their code with ease and confidence.
 Whether you're building the next big thing or protecting your intellectual property, we've got your back.
 
 ---
